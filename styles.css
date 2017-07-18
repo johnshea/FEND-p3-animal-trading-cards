@@ -1,0 +1,42 @@
+/* add your CSS here */
+.fact {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+}
+
+.border {
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.fixedwidth {
+  width: 320px;
+}
+
+.imagewidth {
+  width: 300px;
+}
+
+ul {
+  padding: 0px;
+}
+
+.infocolor {
+  background-color: #cc9f58;
+}
+
+.imgcolor {
+  background-color: #201f25;
+}
+
+.cardcolor {
+  background-color: bisque;
+}
